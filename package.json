@@ -8,4 +8,5 @@
     "@openzeppelin/contracts": "^4.9.3",
     "@swisstronik/utils": "^1.2.1"
   }
-}
+
+  }
